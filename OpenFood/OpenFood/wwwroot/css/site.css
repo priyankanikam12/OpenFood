@@ -1,0 +1,58 @@
+/* General styling */
+html {
+    font-size: 14px; /* Base font size */
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px; /* Increased font size for larger screens */
+    }
+}
+
+body {
+    margin-bottom: 60px; /* Space for fixed footer if you have one */
+    font-family: Arial, sans-serif; /* Sets a default font for the body */
+    background-color: #f8f9fa; /* Light background for better contrast */
+}
+
+/* Button focus and active styles */
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb; /* Custom focus outline */
+}
+
+/* Vegetables list styling */
+.vegetables-list {
+    display: flex; /* Flexbox for responsive layout */
+    flex-wrap: wrap; /* Allows items to wrap onto new lines */
+    justify-content: center; /* Center-aligns the vegetable items */
+    padding: 20px; /* Adds space around the list */
+}
+
+/* Individual vegetable item styling */
+.vegetable-item {
+    margin: 10px; /* Space between items */
+    padding: 20px; /* Padding inside each item */
+    border: 1px solid #ddd; /* Light border for separation */
+    width: 250px; /* Fixed width for each item */
+    background-color: #ffffff; /* White background for item */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    border-radius: 5px; /* Rounded corners */
+    text-align: center; /* Center text alignment */
+}
+
+    /* Vegetable item hover effect */
+    .vegetable-item:hover {
+        transform: scale(1.05); /* Slightly enlarge on hover */
+        transition: transform 0.2s; /* Smooth transition for the hover effect */
+    }
+
+    /* Responsive image styling */
+    .vegetable-item img {
+        max-width: 100%; /* Ensures images fit within their container */
+        height: auto; /* Maintains aspect ratio */
+        border-radius: 5px; /* Rounds image corners */
+    }
