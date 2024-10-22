@@ -1,0 +1,417 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OpenFood.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OpenFood.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\2006-10-22Colocasia01.jpg",
+      "PackagePath": "staticwebassets\\image\\2006-10-22Colocasia01.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Aesthetic_bunch_of_fenugreek_greens.jpg",
+      "PackagePath": "staticwebassets\\image\\Aesthetic_bunch_of_fenugreek_greens.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Artichoke_J1.jpg",
+      "PackagePath": "staticwebassets\\image\\Artichoke_J1.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Bottle Gourd.jpg",
+      "PackagePath": "staticwebassets\\image\\Bottle Gourd.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\CDC_greenbean.jpg",
+      "PackagePath": "staticwebassets\\image\\CDC_greenbean.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\CSIRO_ScienceImage_2779_Radishes.jpg",
+      "PackagePath": "staticwebassets\\image\\CSIRO_ScienceImage_2779_Radishes.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Cabbage_and_cross_section_on_white.jpg",
+      "PackagePath": "staticwebassets\\image\\Cabbage_and_cross_section_on_white.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Chayote_BNC.jpg",
+      "PackagePath": "staticwebassets\\image\\Chayote_BNC.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Chayote_cross_section_BNC.jpg",
+      "PackagePath": "staticwebassets\\image\\Chayote_cross_section_BNC.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\ChineseCabbage.jpg",
+      "PackagePath": "staticwebassets\\image\\ChineseCabbage.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Chou-fleur_02.jpg",
+      "PackagePath": "staticwebassets\\image\\Chou-fleur_02.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Chou_1.jpg",
+      "PackagePath": "staticwebassets\\image\\Chou_1.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Connecticut_Field_cultivar_of_Cucurbita_pepo.jpg",
+      "PackagePath": "staticwebassets\\image\\Connecticut_Field_cultivar_of_Cucurbita_pepo.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Courgette_J1.jpeg",
+      "PackagePath": "staticwebassets\\image\\Courgette_J1.jpeg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Cucumber_BNC.jpg",
+      "PackagePath": "staticwebassets\\image\\Cucumber_BNC.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Drumstick.jpeg",
+      "PackagePath": "staticwebassets\\image\\Drumstick.jpeg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Eleven_long_purple_eggplants.jpg",
+      "PackagePath": "staticwebassets\\image\\Eleven_long_purple_eggplants.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Garlic_bulbs_and_cloves.jpg",
+      "PackagePath": "staticwebassets\\image\\Garlic_bulbs_and_cloves.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Green-Yellow-Red-Pepper-2009.jpg",
+      "PackagePath": "staticwebassets\\image\\Green-Yellow-Red-Pepper-2009.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Hong_Kong_Okra_Aug_25_2012.jpeg",
+      "PackagePath": "staticwebassets\\image\\Hong_Kong_Okra_Aug_25_2012.jpeg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Ingwer_2_(fcm).jpg",
+      "PackagePath": "staticwebassets\\image\\Ingwer_2_(fcm).jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Ipomoea_batatas_006.jpeg",
+      "PackagePath": "staticwebassets\\image\\Ipomoea_batatas_006.jpeg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\JlmartichokeS.jpg",
+      "PackagePath": "staticwebassets\\image\\JlmartichokeS.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\KohlrabiinMarket.jpg",
+      "PackagePath": "staticwebassets\\image\\KohlrabiinMarket.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Koriander_IMG_20220114.jpg",
+      "PackagePath": "staticwebassets\\image\\Koriander_IMG_20220114.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\LeeksSupermarket.jpg",
+      "PackagePath": "staticwebassets\\image\\LeeksSupermarket.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Mixed_onions.jpg",
+      "PackagePath": "staticwebassets\\image\\Mixed_onions.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Nasturtium_--_Tropaeolum.jpg",
+      "PackagePath": "staticwebassets\\image\\Nasturtium_--_Tropaeolum.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Patates.jpg",
+      "PackagePath": "staticwebassets\\image\\Patates.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Peas_in_pods_2016_G1.jpg",
+      "PackagePath": "staticwebassets\\image\\Peas_in_pods_2016_G1.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Portulaca_sativa_01.jpg",
+      "PackagePath": "staticwebassets\\image\\Portulaca_sativa_01.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Radicchio.jpeg",
+      "PackagePath": "staticwebassets\\image\\Radicchio.jpeg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Raphanus_sativus-1.jpg",
+      "PackagePath": "staticwebassets\\image\\Raphanus_sativus-1.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Spinacia_oleracea_Spinazie_bloeiend.jpg",
+      "PackagePath": "staticwebassets\\image\\Spinacia_oleracea_Spinazie_bloeiend.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Sunchoke (Jerusalem Artichoke).jpg",
+      "PackagePath": "staticwebassets\\image\\Sunchoke (Jerusalem Artichoke).jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Tomato_je.jpg",
+      "PackagePath": "staticwebassets\\image\\Tomato_je.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\Vegetable-Carrot-Bundle-wStalks.jpg",
+      "PackagePath": "staticwebassets\\image\\Vegetable-Carrot-Bundle-wStalks.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\image\\taroroot.jpg",
+      "PackagePath": "staticwebassets\\image\\taroroot.jpg"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\OpenFoodVeggiesMarket\\OpenFood\\OpenFood\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OpenFood.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OpenFood.props",
+      "PackagePath": "build\\OpenFood.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OpenFood.props",
+      "PackagePath": "buildMultiTargeting\\OpenFood.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OpenFood.props",
+      "PackagePath": "buildTransitive\\OpenFood.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

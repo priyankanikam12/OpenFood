@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- Welcome Section -->
+<div class="text-center">
+    <h1 class="display-4" style="color: #4CAF50;">Welcome</h1> <!-- Green color -->
+</div>
+
+<!-- Vegetables Section -->
+<div class="text-center mt-5 animate__animated animate__fadeIn">
+    <h2 style="color: #FF5722;">Find Your Favorite Vegetables</h2> <!-- Orange color -->
+    <p style="color: #555;">Explore a wide variety of fresh vegetables at friendly prices, available from different online retailers.</p>
+    <p style="color: #555;">Nutrient-rich, locally sourced vegetables available for purchase at user-friendly prices.</p>
+
+    <div class="mt-3">
+        <a href="@Url.Action("Index", "Vegetable")" class="btn btn-success animate__animated animate__pulse">
+            Explore Vegetables & Buy Online
+        </a> <!-- Button for Vegetable Page -->
+    </div>
+</div>
+
+@section Scripts {
+    <!-- Include Animate.css for animations -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+}

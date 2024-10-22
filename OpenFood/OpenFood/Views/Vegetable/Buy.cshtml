@@ -1,0 +1,36 @@
+﻿@model OpenFood.Models.BuyVegetableViewModel
+
+@{
+    ViewData["Title"] = "Buy " + Model.Vegetable.Name;
+}
+
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+    <div class="row">
+        <div class="col-md-12">
+            <h1 class="text-center">@Model.Vegetable.Name</h1>
+
+            <div class="card mb-4 text-center mx-auto" style="max-width: 400px;">
+                <img src="@Model.Vegetable.ImageUrl" class="card-img-top mx-auto d-block" alt="@Model.Vegetable.Name" style="max-width: 200px; height: auto;">
+                <div class="card-body">
+                    <h5 class="card-title">Details</h5>
+                    <p class="card-text">@Model.Vegetable.Details</p>
+                    <p class="card-text"><small class="text-muted">Region: @Model.Vegetable.Region</small></p>
+                </div>
+            </div>
+
+            <h2 class="text-center">Buying Options</h2>
+            <ul class="list-group">
+                @foreach (var option in Model.BuyingOptions)
+                {
+                    <li class="list-group-item">
+                        <a href="@option.Url">@option.PlatformName</a>
+                    </li>
+                }
+            </ul>
+
+            <div class="text-center mt-3">
+                <a href="@Url.Action("Index", "Vegetable")" class="btn btn-secondary">Back to Vegetables</a>
+            </div>
+        </div>
+    </div>
+</div>
